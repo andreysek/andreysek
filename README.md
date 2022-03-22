@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @andreysek
-- 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on different related iOS developer projects.
+- 👋 Hi, I’m @andreysek, a full Stack developer!
+- 👀 I’m interested in all kinds of Development
+- 💞️ I’m looking to collaborate on different related  developer projects.
 - 📫 How to reach me andreysek@icloud.com
 
 <!---
